@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/E:/Z_BigData_Developer/10.Spark/program/new/"), "new")...
+[debug] Done updating ProjectRef(uri("file:/E:/Z_BigData_Developer/10.Spark/program/new/"), "new")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
