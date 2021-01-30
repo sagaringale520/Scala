@@ -8,9 +8,9 @@ object ForLoop extends App{
     val dayOfWeek:List[Int]=List(1,2,3,4,5,6,7)
     
     //value Binding
-   for (i <- dayOfWeek){
-     println (i)
-     if (i==6 || i==7)
+   for (p <- dayOfWeek){
+     println (p)
+     if (p==6 || p==7)
        println("Its WeekEnd")
    }
     
